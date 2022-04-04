@@ -1,6 +1,6 @@
-#Crazynoid
+*Crazynoid*
 
-*Videojuego estilo Arkanoid
+Videojuego estilo Arkanoid desarrollado en Godot.
 
 Basándose en el videotutorial de Raformático.
 
